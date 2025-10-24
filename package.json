@@ -1,0 +1,23 @@
+{
+  "name": "tank-optimizer",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000a\u0000n\u0000k\u0000o\u0000p\u0000t\u0000i\u0000m\u0000i\u0000z\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMsonuMnoz/tankoptimization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aMsonuMnoz/tankoptimization/issues"
+  },
+  "homepage": "https://github.com/aMsonuMnoz/tankoptimization#readme",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
